@@ -1,2 +1,2 @@
 # node-api-ts
-Rest API using NodeJS and TypeScript.
+Rest API using NodeJS.
